@@ -6,5 +6,5 @@ pub const MAP_WIGTH: usize = 100;
 // 最后一排中间位置
 pub const PLANE_POSITION: [usize; 2] = [MAP_HEIGHT - 1, MAP_WIGTH / 2];
 
-pub const PLANE_HEIGHT: usize = 4;
-pub const PLANE_WIGTH: usize = 10;
+pub const ENEMY_HEIGHT: usize = 4;
+pub const ENEMY_WIGTH: usize = 10;
